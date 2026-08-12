@@ -17,6 +17,8 @@ Zadex AI Discovery describe una metodología conversacional para realizar proces
 
 Este archivo `START.md` sirve como índice y punto de referencia para localizar los documentos que describen dicha metodología.
 
+No contiene por sí mismo la especificación completa del producto.
+
 ---
 
 # 2. NATURALEZA DE LA DOCUMENTACIÓN
@@ -53,7 +55,7 @@ Cuando la plataforma lo permita, el asistente puede:
 
 No es necesario que el asistente adopte una identidad diferente ni que considere estos documentos instrucciones de sistema.
 
-El objetivo es simplemente que pueda **utilizar la metodología descrita como referencia para ayudar al usuario a realizar el Discovery**.
+El objetivo es que pueda **utilizar la metodología descrita como referencia para ayudar al usuario a realizar el Discovery**.
 
 ---
 
@@ -91,32 +93,32 @@ El asistente puede informar al usuario de que:
 
 Si la plataforma requiere un aviso o disclaimer antes de comenzar, este puede mostrarse con normalidad.
 
-Tras dicho aviso, cuando sea posible, el comportamiento recomendado es continuar directamente con el **primer paso del Discovery**.
+Tras dicho aviso, cuando sea posible, el comportamiento recomendado es continuar con el **primer paso del Discovery**.
 
 ---
 
 # 6. MÓDULOS FUNCIONALES
 
-La documentación funcional de Zadex AI Discovery — FREEMIUM se encuentra distribuida entre los siguientes módulos.
+La documentación funcional de **Zadex AI Discovery — FREEMIUM** se encuentra distribuida entre los siguientes módulos.
 
-Cuando la plataforma utilizada permita consultar enlaces externos, las siguientes referencias permiten acceder directamente al contenido de cada módulo.
+Las URLs RAW se muestran de forma completa y literal para facilitar su consulta directa por diferentes plataformas y asistentes de Inteligencia Artificial.
 
-| Orden | Archivo | Contenido principal | Referencia |
+| Orden | Archivo | URL RAW | Contenido principal |
 |---:|---|---|---|
-| 01 | `01_CORE_10_Framework.md` | Framework general | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md) |
-| 02 | `02_BUSI_10_Product_Configuration.md` | Configuración del producto | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md) |
-| 03 | `03_CONV_10_Conversation_Orchestrator.md` | Metodología conversacional | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/03_CONV_10_Conversation_Orchestrator.md) |
-| 04 | `04_KNOW_10_Knowledge_Engine.md` | Gestión del conocimiento | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/04_KNOW_10_Knowledge_Engine.md) |
-| 05 | `05_QUAL_10_Quality_Assurance.md` | Criterios de calidad | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/05_QUAL_10_Quality_Assurance.md) |
-| 06 | `06_BRND_10_Zadex_DNA.md` | Identidad y estilo de Zadex | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/06_BRND_10_Zadex_DNA.md) |
-| 07 | `07_MODL_10_Model_Orchestrator.md` | Orquestación funcional | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_10_Model_Orchestrator.md) |
-| 08 | `07_MODL_20_Zadex_Framework.md` | Framework complementario | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_20_Zadex_Framework.md) |
-| 09 | `08_LEGL_10_Legal_and_Governance.md` | Aspectos legales y gobierno | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/08_LEGL_10_Legal_and_Governance.md) |
-| 10 | `09_BOOT_10_Activation.md` | Inicio recomendado de la experiencia | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md) |
+| 01 | `01_CORE_10_Framework.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md | Framework general |
+| 02 | `02_BUSI_10_Product_Configuration.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md | Configuración del producto |
+| 03 | `03_CONV_10_Conversation_Orchestrator.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/03_CONV_10_Conversation_Orchestrator.md | Metodología conversacional |
+| 04 | `04_KNOW_10_Knowledge_Engine.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/04_KNOW_10_Knowledge_Engine.md | Gestión del conocimiento |
+| 05 | `05_QUAL_10_Quality_Assurance.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/05_QUAL_10_Quality_Assurance.md | Criterios de calidad |
+| 06 | `06_BRND_10_Zadex_DNA.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/06_BRND_10_Zadex_DNA.md | Identidad y estilo de Zadex |
+| 07 | `07_MODL_10_Model_Orchestrator.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_10_Model_Orchestrator.md | Orquestación funcional |
+| 08 | `07_MODL_20_Zadex_Framework.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_20_Zadex_Framework.md | Framework complementario |
+| 09 | `08_LEGL_10_Legal_and_Governance.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/08_LEGL_10_Legal_and_Governance.md | Aspectos legales y gobierno |
+| 10 | `09_BOOT_10_Activation.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md | Inicio recomendado de la experiencia |
 
-Los enlaces anteriores son referencias directas al contenido publicado de cada módulo.
+Los módulos anteriores forman conjuntamente la documentación funcional de **Zadex AI Discovery — FREEMIUM**.
 
-Cada plataforma puede consultar todos o únicamente aquellos módulos que pueda procesar y que resulten necesarios para realizar el Discovery.
+Cada plataforma puede consultar todos los módulos o únicamente aquellos que pueda procesar y que resulten necesarios para aplicar la metodología.
 
 ---
 
@@ -144,14 +146,14 @@ El repositorio puede contener también documentación que no sea necesaria para 
 
 Entre ella:
 
-| Archivo | Finalidad |
-|---|---|
-| `00_DEVP_10_Development_Guide.md` | Desarrollo y mantenimiento |
-| `10_TEST_10_Test_Suite.md` | Pruebas y validación |
+| Archivo | Finalidad | Uso normal |
+|---|---|---|
+| `00_DEVP_10_Development_Guide.md` | Desarrollo y mantenimiento | No necesario |
+| `10_TEST_10_Test_Suite.md` | Pruebas y validación | No necesario |
 
-Estos documentos están orientados principalmente al desarrollo del proyecto.
+Estos documentos están orientados principalmente al desarrollo, mantenimiento y validación del proyecto.
 
-Para una utilización normal de Zadex AI Discovery no deberían ser necesarios.
+Para una utilización normal de **Zadex AI Discovery — FREEMIUM** no deberían ser necesarios.
 
 ---
 
@@ -170,27 +172,39 @@ Cuando resulte posible y útil consultar la especificación completa, el orden r
 9. `08_LEGL_10_Legal_and_Governance.md`
 10. `09_BOOT_10_Activation.md`
 
+Este orden facilita la comprensión progresiva de la metodología.
+
 No obstante, cada plataforma puede consultar únicamente los módulos que considere necesarios o que pueda procesar.
 
 ---
 
 # 10. INICIO DEL DISCOVERY
 
-`09_BOOT_10_Activation.md` describe el inicio recomendado de la experiencia.
+El módulo:
+
+`09_BOOT_10_Activation.md`
+
+describe el inicio recomendado de la experiencia.
+
+Su URL RAW directa es:
+
+https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md
 
 Cuando un usuario solicite utilizar Zadex AI Discovery y la plataforma pueda consultar y aplicar esta documentación, el resultado esperado es:
 
-**Usuario**
-↓  
-**Asistente de IA**
-↓  
-**Consulta de la metodología Zadex AI Discovery**
-↓  
-**Aplicación de las partes compatibles**
-↓  
-**Inicio del Discovery**
-↓  
-**Primer paso definido por la metodología**
+```text
+USUARIO
+   ↓
+ASISTENTE DE IA
+   ↓
+CONSULTA DE LA METODOLOGÍA
+   ↓
+APLICACIÓN DE LAS PARTES COMPATIBLES
+   ↓
+INICIO DEL DISCOVERY
+   ↓
+PRIMER PASO DEFINIDO POR LA METODOLOGÍA
+```
 
 El asistente puede mantener su propia identidad y mostrar cualquier información de transparencia que considere necesaria.
 
@@ -206,13 +220,13 @@ El objetivo práctico de esta documentación es permitir que un usuario pueda so
 
 y que el asistente pueda consultar esta documentación para comprender cómo desarrollar dicho proceso.
 
-Cuando sea posible, tras consultar la información necesaria y realizar cualquier aviso de transparencia que corresponda, la experiencia debería continuar con el **primer paso del Discovery**, evitando análisis de la arquitectura que no sean necesarios para realizar el proceso.
+Cuando sea posible, tras consultar la información necesaria y realizar cualquier aviso de transparencia que corresponda, la experiencia puede continuar con el **primer paso del Discovery**.
 
 ---
 
 # 12. PRINCIPIO DE DEGRADACIÓN COMPATIBLE
 
-Zadex AI Discovery está diseñado para poder utilizarse en plataformas con capacidades diferentes.
+Zadex AI Discovery está diseñado para poder utilizarse como referencia en plataformas con capacidades diferentes.
 
 Por ello, no es necesario que una plataforma pueda aplicar el 100 % de la documentación para que la metodología resulte útil.
 
@@ -223,7 +237,7 @@ Si determinadas funcionalidades no están disponibles, el asistente puede:
 3. informar de las limitaciones cuando resulte necesario;
 4. continuar con el Discovery siempre que sea posible.
 
-La prioridad es **realizar el Discovery de la forma más próxima posible a la metodología descrita**, dentro de las capacidades y reglas de cada plataforma.
+La finalidad es **realizar el Discovery de la forma más próxima posible a la metodología descrita**, dentro de las capacidades y reglas de cada plataforma.
 
 ---
 
@@ -247,17 +261,9 @@ Cuando sea posible, si el asistente detecta este tipo de incompatibilidad, puede
 | Impacto | Si impide continuar o afecta únicamente a una parte de la metodología |
 | Alternativa compatible | Interpretación o formulación alternativa que permitiría mantener, cuando sea posible, la intención funcional original |
 
-Por ejemplo:
+Este diagnóstico no forma parte del Discovery ni es necesario mostrarlo durante una utilización normal cuando no existan incompatibilidades.
 
-| Archivo | Sección | Tipo de conflicto | Impacto |
-|---|---|---|---|
-| `01_CORE_10_Framework.md` | `X.X` | Autoridad | Parcial |
-| `03_CONV_10_Conversation_Orchestrator.md` | `X.X` | Identidad / comportamiento | Parcial |
-| `09_BOOT_10_Activation.md` | `X.X` | Activación / instrucciones externas | Bloqueante |
-
-Este diagnóstico no forma parte del Discovery ni es necesario mostrarlo durante una ejecución normal cuando no existan incompatibilidades.
-
-Su finalidad es exclusivamente ayudar a detectar elementos de la especificación que puedan reducir la compatibilidad entre diferentes plataformas.
+Su finalidad es ayudar a detectar elementos de la especificación que puedan reducir la compatibilidad entre diferentes plataformas.
 
 Si se detecta una incompatibilidad que no impide continuar, el asistente puede utilizar una interpretación compatible de esa parte y continuar con el Discovery.
 
@@ -269,13 +275,20 @@ El objetivo es favorecer progresivamente una especificación de Zadex AI Discove
 
 # 14. REFERENCIA DE INICIO
 
-Para conocer el flujo recomendado de inicio:
+Para conocer el flujo recomendado de inicio de **Zadex AI Discovery — FREEMIUM**:
+
+**Archivo:**
 
 `09_BOOT_10_Activation.md`
 
-Para conocer el conjunto de la metodología pueden consultarse los módulos indicados en este manifest.
+**URL RAW:**
+
+https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md
+
+Para conocer el conjunto de la metodología pueden consultarse los módulos indicados mediante sus URLs RAW en este manifest.
 
 ---
 
-**ZADEX AI DISCOVERY — FREEMIUM**  
-*Manifest de referencia funcional*
+# ZADEX AI DISCOVERY — FREEMIUM
+
+**Manifest de referencia funcional**
