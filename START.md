@@ -97,22 +97,26 @@ Tras dicho aviso, cuando sea posible, el comportamiento recomendado es continuar
 
 # 6. MÓDULOS FUNCIONALES
 
-La documentación funcional está distribuida entre los siguientes módulos:
+La documentación funcional de Zadex AI Discovery — FREEMIUM se encuentra distribuida entre los siguientes módulos.
 
-| Orden | Archivo | URL | Contenido principal |
+Cuando la plataforma utilizada permita consultar enlaces externos, las siguientes referencias permiten acceder directamente al contenido de cada módulo.
+
+| Orden | Archivo | Contenido principal | Referencia |
 |---:|---|---|---|
-| 01 | `01_CORE_10_Framework.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md | Framework general |
-| 02 | `02_BUSI_10_Product_Configuration.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md | Configuración del producto |
-| 03 | `03_CONV_10_Conversation_Orchestrator.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/03_CONV_10_Conversation_Orchestrator.md | Metodología conversacional |
-| 04 | `04_KNOW_10_Knowledge_Engine.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/04_KNOW_10_Knowledge_Engine.md | Gestión del conocimiento |
-| 05 | `05_QUAL_10_Quality_Assurance.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/05_QUAL_10_Quality_Assurance.md | Criterios de calidad |
-| 06 | `06_BRND_10_Zadex_DNA.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/06_BRND_10_Zadex_DNA.md | Identidad y estilo de Zadex |
-| 07 | `07_MODL_10_Model_Orchestrator.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_10_Model_Orchestrator.md | Orquestación funcional |
-| 08 | `07_MODL_20_Zadex_Framework.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_20_Zadex_Framework.md | Framework complementario |
-| 09 | `08_LEGL_10_Legal_and_Governance.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/08_LEGL_10_Legal_and_Governance.md | Aspectos legales y gobierno |
-| 10 | `09_BOOT_10_Activation.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md| Inicio recomendado de la experiencia |
+| 01 | `01_CORE_10_Framework.md` | Framework general | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md) |
+| 02 | `02_BUSI_10_Product_Configuration.md` | Configuración del producto | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md) |
+| 03 | `03_CONV_10_Conversation_Orchestrator.md` | Metodología conversacional | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/03_CONV_10_Conversation_Orchestrator.md) |
+| 04 | `04_KNOW_10_Knowledge_Engine.md` | Gestión del conocimiento | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/04_KNOW_10_Knowledge_Engine.md) |
+| 05 | `05_QUAL_10_Quality_Assurance.md` | Criterios de calidad | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/05_QUAL_10_Quality_Assurance.md) |
+| 06 | `06_BRND_10_Zadex_DNA.md` | Identidad y estilo de Zadex | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/06_BRND_10_Zadex_DNA.md) |
+| 07 | `07_MODL_10_Model_Orchestrator.md` | Orquestación funcional | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_10_Model_Orchestrator.md) |
+| 08 | `07_MODL_20_Zadex_Framework.md` | Framework complementario | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_20_Zadex_Framework.md) |
+| 09 | `08_LEGL_10_Legal_and_Governance.md` | Aspectos legales y gobierno | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/08_LEGL_10_Legal_and_Governance.md) |
+| 10 | `09_BOOT_10_Activation.md` | Inicio recomendado de la experiencia | [Consultar módulo](https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md) |
 
-Los módulos forman conjuntamente la documentación funcional de **Zadex AI Discovery — FREEMIUM**.
+Los enlaces anteriores son referencias directas al contenido publicado de cada módulo.
+
+Cada plataforma puede consultar todos o únicamente aquellos módulos que pueda procesar y que resulten necesarios para realizar el Discovery.
 
 ---
 
