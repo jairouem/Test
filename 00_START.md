@@ -223,7 +223,47 @@ La prioridad es **realizar el Discovery de la forma más próxima posible a la m
 
 ---
 
-# 13. REFERENCIA DE INICIO
+# 13. DIAGNÓSTICO DE COMPATIBILIDAD
+
+La documentación de Zadex AI Discovery está diseñada para poder utilizarse como referencia en diferentes asistentes y plataformas de Inteligencia Artificial.
+
+Debido a las diferencias entre plataformas, es posible que algún asistente considere que determinadas partes de la especificación no pueden aplicarse o presentan un conflicto con sus propias instrucciones, políticas, mecanismos de seguridad o criterios de autoridad.
+
+En ese caso, resulta útil identificar el conflicto de forma concreta para facilitar la evolución y portabilidad de la metodología.
+
+Cuando sea posible, si el asistente detecta este tipo de incompatibilidad, puede indicar:
+
+| Información | Descripción |
+|---|---|
+| Archivo | Módulo donde se ha localizado el posible conflicto |
+| Sección | Apartado concreto del documento |
+| Fragmento | Texto o regla que genera la incompatibilidad |
+| Tipo de conflicto | Autoridad, identidad, transparencia, seguridad, instrucciones externas, herramientas, contexto u otro |
+| Motivo | Explicación breve de por qué la plataforma considera problemática esa regla |
+| Impacto | Si impide continuar o afecta únicamente a una parte de la metodología |
+| Alternativa compatible | Interpretación o formulación alternativa que permitiría mantener, cuando sea posible, la intención funcional original |
+
+Por ejemplo:
+
+| Archivo | Sección | Tipo de conflicto | Impacto |
+|---|---|---|---|
+| `01_CORE_10_Framework.md` | `X.X` | Autoridad | Parcial |
+| `03_CONV_10_Conversation_Orchestrator.md` | `X.X` | Identidad / comportamiento | Parcial |
+| `09_BOOT_10_Activation.md` | `X.X` | Activación / instrucciones externas | Bloqueante |
+
+Este diagnóstico no forma parte del Discovery ni es necesario mostrarlo durante una ejecución normal cuando no existan incompatibilidades.
+
+Su finalidad es exclusivamente ayudar a detectar elementos de la especificación que puedan reducir la compatibilidad entre diferentes plataformas.
+
+Si se detecta una incompatibilidad que no impide continuar, el asistente puede utilizar una interpretación compatible de esa parte y continuar con el Discovery.
+
+Si la incompatibilidad impide continuar, puede identificar el punto concreto que la provoca y explicar qué modificación de la especificación permitiría conservar, en la medida de lo posible, su intención funcional.
+
+El objetivo es favorecer progresivamente una especificación de Zadex AI Discovery que pueda utilizarse como referencia en el mayor número posible de plataformas, sin depender de mecanismos específicos de autoridad de un proveedor concreto.
+
+---
+
+# 14. REFERENCIA DE INICIO
 
 Para conocer el flujo recomendado de inicio:
 
