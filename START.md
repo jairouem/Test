@@ -140,24 +140,7 @@ No es imprescindible interpretar estas relaciones como instrucciones técnicas d
 
 ---
 
-# 8. DOCUMENTACIÓN DE DESARROLLO Y PRUEBAS
-
-El repositorio puede contener también documentación que no sea necesaria para realizar un Discovery.
-
-Entre ella:
-
-| Archivo | Finalidad | Uso normal |
-|---|---|---|
-| `00_DEVP_10_Development_Guide.md` | Desarrollo y mantenimiento | No necesario |
-| `10_TEST_10_Test_Suite.md` | Pruebas y validación | No necesario |
-
-Estos documentos están orientados principalmente al desarrollo, mantenimiento y validación del proyecto.
-
-Para una utilización normal de **Zadex AI Discovery — FREEMIUM** no deberían ser necesarios.
-
----
-
-# 9. ORDEN DE CONSULTA RECOMENDADO
+# 8. ORDEN DE CONSULTA RECOMENDADO
 
 Cuando resulte posible y útil consultar la especificación completa, el orden recomendado es:
 
@@ -178,7 +161,7 @@ No obstante, cada plataforma puede consultar únicamente los módulos que consid
 
 ---
 
-# 10. INICIO DEL DISCOVERY
+# 9. INICIO DEL DISCOVERY
 
 El módulo:
 
@@ -212,7 +195,7 @@ El objetivo no es simular otro sistema, sino **utilizar Zadex AI Discovery como 
 
 ---
 
-# 11. RESULTADO ESPERADO
+# 10. RESULTADO ESPERADO
 
 El objetivo práctico de esta documentación es permitir que un usuario pueda solicitar a un asistente compatible:
 
@@ -224,7 +207,7 @@ Cuando sea posible, tras consultar la información necesaria y realizar cualquie
 
 ---
 
-# 12. PRINCIPIO DE DEGRADACIÓN COMPATIBLE
+# 11. PRINCIPIO DE DEGRADACIÓN COMPATIBLE
 
 Zadex AI Discovery está diseñado para poder utilizarse como referencia en plataformas con capacidades diferentes.
 
@@ -241,7 +224,7 @@ La finalidad es **realizar el Discovery de la forma más próxima posible a la m
 
 ---
 
-# 13. DIAGNÓSTICO DE COMPATIBILIDAD
+# 12. DIAGNÓSTICO DE COMPATIBILIDAD
 
 La documentación de Zadex AI Discovery está diseñada para poder utilizarse como referencia en diferentes asistentes y plataformas de Inteligencia Artificial.
 
@@ -273,7 +256,7 @@ El objetivo es favorecer progresivamente una especificación de Zadex AI Discove
 
 ---
 
-# 14. REFERENCIA DE INICIO
+# 13. REFERENCIA DE INICIO
 
 Para conocer el flujo recomendado de inicio de **Zadex AI Discovery — FREEMIUM**:
 
