@@ -103,7 +103,7 @@ La documentación funcional de **Zadex AI Discovery — FREEMIUM** se encuentra 
 
 Las URLs RAW se muestran de forma completa y literal para facilitar su consulta directa por diferentes plataformas y asistentes de Inteligencia Artificial.
 
-| Orden | Archivo | URL RAW | Contenido principal |
+| Orden | Nombre | Archivo | Contenido principal |
 |---:|---|---|---|
 | 01 | `01_CORE_10_Framework.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md | Framework general |
 | 02 | `02_BUSI_10_Product_Configuration.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md | Configuración del producto |
