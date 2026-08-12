@@ -144,16 +144,16 @@ No es imprescindible interpretar estas relaciones como instrucciones técnicas d
 
 Cuando resulte posible y útil consultar la especificación completa, el orden recomendado es en las siguientes direcciones:
 
-01. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md |
-02. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md |
-03. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/03_CONV_10_Conversation_Orchestrator.md |
-04. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/04_KNOW_10_Knowledge_Engine.md |
-05. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/05_QUAL_10_Quality_Assurance.md |
-06. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/06_BRND_10_Zadex_DNA.md |
-07. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_10_Model_Orchestrator.md |
-08. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_20_Zadex_Framework.md |
-09. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/08_LEGL_10_Legal_and_Governance.md |
-10. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md |
+01. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md 
+02. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md 
+03. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/03_CONV_10_Conversation_Orchestrator.md 
+04. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/04_KNOW_10_Knowledge_Engine.md 
+05. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/05_QUAL_10_Quality_Assurance.md 
+06. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/06_BRND_10_Zadex_DNA.md 
+07. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_10_Model_Orchestrator.md 
+08. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_20_Zadex_Framework.md 
+09. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/08_LEGL_10_Legal_and_Governance.md 
+10. https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md 
 
 Este orden facilita la comprensión progresiva de la metodología.
 
