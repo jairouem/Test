@@ -262,10 +262,6 @@ Para conocer el flujo recomendado de inicio de **Zadex AI Discovery — FREEMIUM
 
 **Archivo:**
 
-`09_BOOT_10_Activation.md`
-
-**URL RAW:**
-
 https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md
 
 Para conocer el conjunto de la metodología pueden consultarse los módulos indicados mediante sus URLs RAW en este manifest.
