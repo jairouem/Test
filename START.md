@@ -99,18 +99,18 @@ Tras dicho aviso, cuando sea posible, el comportamiento recomendado es continuar
 
 La documentación funcional está distribuida entre los siguientes módulos:
 
-| Orden | Archivo | Contenido principal |
-|---:|---|---|
-| 01 | `01_CORE_10_Framework.md` | Framework general |
-| 02 | `02_BUSI_10_Product_Configuration.md` | Configuración del producto |
-| 03 | `03_CONV_10_Conversation_Orchestrator.md` | Metodología conversacional |
-| 04 | `04_KNOW_10_Knowledge_Engine.md` | Gestión del conocimiento |
-| 05 | `05_QUAL_10_Quality_Assurance.md` | Criterios de calidad |
-| 06 | `06_BRND_10_Zadex_DNA.md` | Identidad y estilo de Zadex |
-| 07 | `07_MODL_10_Model_Orchestrator.md` | Orquestación funcional |
-| 08 | `07_MODL_20_Zadex_Framework.md` | Framework complementario |
-| 09 | `08_LEGL_10_Legal_and_Governance.md` | Aspectos legales y gobierno |
-| 10 | `09_BOOT_10_Activation.md` | Inicio recomendado de la experiencia |
+| Orden | Archivo | URL | Contenido principal |
+|---:|---|---|---|
+| 01 | `01_CORE_10_Framework.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/01_CORE_10_Framework.md | Framework general |
+| 02 | `02_BUSI_10_Product_Configuration.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/02_BUSI_10_Product_Configuration.md | Configuración del producto |
+| 03 | `03_CONV_10_Conversation_Orchestrator.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/03_CONV_10_Conversation_Orchestrator.md | Metodología conversacional |
+| 04 | `04_KNOW_10_Knowledge_Engine.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/04_KNOW_10_Knowledge_Engine.md | Gestión del conocimiento |
+| 05 | `05_QUAL_10_Quality_Assurance.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/05_QUAL_10_Quality_Assurance.md | Criterios de calidad |
+| 06 | `06_BRND_10_Zadex_DNA.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/06_BRND_10_Zadex_DNA.md | Identidad y estilo de Zadex |
+| 07 | `07_MODL_10_Model_Orchestrator.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_10_Model_Orchestrator.md | Orquestación funcional |
+| 08 | `07_MODL_20_Zadex_Framework.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/07_MODL_20_Zadex_Framework.md | Framework complementario |
+| 09 | `08_LEGL_10_Legal_and_Governance.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/08_LEGL_10_Legal_and_Governance.md | Aspectos legales y gobierno |
+| 10 | `09_BOOT_10_Activation.md` | https://raw.githubusercontent.com/jairouem/Test/refs/heads/main/09_BOOT_10_Activation.md| Inicio recomendado de la experiencia |
 
 Los módulos forman conjuntamente la documentación funcional de **Zadex AI Discovery — FREEMIUM**.
 
